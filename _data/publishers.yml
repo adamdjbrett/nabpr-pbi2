@@ -1,0 +1,37 @@
+# Publishers
+
+mercerup:
+  name        : "Mercer University Press"
+  bio         : "Established in 1979, Mercer University Press has published more than 1,600 books, releasing 35-40 titles annually."
+  avatar      : "/assets/images/mercer-university-press.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:mupressorders@mercer.edu"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.mupress.org/"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/MercerYou"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+      url: "https://www.facebook.com/MercerUniversity"
+
+NABPR:
+  name        : "National Association of Baptist Professors of Religion (NABPR)"
+  bio         : "The National Association of Baptist Professors of Religion is a community of teaching scholars. Most members teach at Baptist-affiliated schools, colleges, and seminaries, but members also hail from a wide range of institutions in the United States, Canada, and abroad, including church-related and state-supported schools. The history of the association is woven into the changing religious culture of the United States."
+  avatar      : "/assets/images/nabpr.png"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:hello@nabpr.org"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://nabpr.org/"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/nabpr1"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+      url: "https://www.facebook.com/nabpr"

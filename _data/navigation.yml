@@ -1,0 +1,20 @@
+# main links
+main:
+  - title: "Quick-Start Guide"
+    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  - title: "About"
+    url: /about/
+  # - title: "Sample Posts"
+  #   url: /year-archive/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
+
+# sidebar-about links
+sidebar-about:
+  - title: "View our series"
+    url: https://www.mupress.org/Perspectives-Baptist-Identites-C2131.aspx
+  # - title: "Sample Posts"
+  #   url: /year-archive/
+  

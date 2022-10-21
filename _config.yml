@@ -61,13 +61,12 @@ baidu_site_verification  :
 
 plugins:
   - jekyll-feed
+  - jekyll-gist
+  - jekyll-include-cache
+  - jemoji
   - jekyll-paginate
   - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-feed
-  - jemoji
-  - jekyll-include-cache
-
+  
 # Defaults
 defaults:
   # _posts

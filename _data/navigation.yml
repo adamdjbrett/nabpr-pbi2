@@ -5,15 +5,15 @@ main:
   - title: "Books"
     url: /books/
   - title: "Forthcoming"
-     url: /forthcoming/
+    url: /forthcoming/
   - title: "News"
-     url: /News/
+    url: /News/
   - title: "Editorial Board"
-     url: /board/ 
+    url: /board/ 
   - title: "Submissions"
     url: /submissions/     
   - title: "Contact"
-     url: /contact/
+    url: /contact/
 
 
 # sidebar-about links

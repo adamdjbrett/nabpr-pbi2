@@ -9,7 +9,7 @@ header:
     - label: "<i class='fas fa-globe'></i> Learn More"
       url: "/about/"
 excerpt: >
-  A National Association of Baptist Professors of Religion<br />
+  A National Association of Baptist Professors of Religion series<br />
   that provides a place for innovative approaches to baptist topics.
 feature_row:
   - image_path: /assets/images/splash/ian-schneider-TamMbr4okv4-unsplash.jpg

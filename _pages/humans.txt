@@ -1,0 +1,27 @@
+---
+layout: null
+title: "humans.txt"
+source: "http://humanstxt.org/Standard.html"
+permalink: /humans.txt
+---
+/* TEAM */
+
+Name: Adam DJ Brett
+Role: Web Admin
+site: https://adamdjbrett.com
+Twitter: @__adjb
+
+/* THANKS */
+
+Name: Michael Rose @mmistakes
+Role: Creator of the Theme
+Site: https://mmistakes.github.io/minimal-mistakes/
+Theme: https://github.com/mmistakes/minimal-mistakes
+
+
+/* SITE */
+
+Last Updated: {{ site.time | date:"%Y/%m/%d" }}
+Standards: HTML5, CSS3
+Software: Sublime Text, Chrome, Jekyll, Git, Imageoptim, JPEGMini, Gulp.js, Sass
+Components: Foundation Framework, Modernizr, jQuery, Backstretch.js, Reveal

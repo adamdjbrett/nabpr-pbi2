@@ -1,8 +1,10 @@
 ---
 title: "Molly T. Marshall"
 excerpt: "President United Theologial Seminary of the Twin Cities"
+header:
+  teaser: /assets/images/Molly_T_Marshall_23x120.jpg
 ---
-![image-center](/assets/images/Molly_T_Marshall_2021-scaled.jpeg){: .align-center}
+![image-center](/assets/images/Molly_T_Marshall_2021-267x400.jpeg){: .align-center}
 
 Serving in theological education for nearly forty years, Rev. Dr. Molly T. Marshall believes she was put on the earth to love students, teach theology, guide spiritual formation, and challenge patriarchal structures that would hinder women from full acceptance in all forms of ministry. She has worked as a youth minister, campus minister, pastor, scholar, and theological educator, seeking to dismantle all forms of oppression.
 

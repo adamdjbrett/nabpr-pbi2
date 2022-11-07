@@ -1,8 +1,10 @@
 ---
-title: "Jamie Clark-Soles"
+title: "Jaime Clark-Soles"
 excerpt: "Rev. Dr. Jaime Clark-Soles is Professor of New Testament and Altshuler Distinguished Teaching Professor at Perkins School of Theology, Southern Methodist University."
+header:
+  teaser: /assets/images/clark-soles-cropped-headshot-223x120.jpg
 ---
-![image-left](/assets/images/clark-soles-cropped-headshot-768x992.jpg){: .align-left} Rev. Dr. Jaime Clark-Soles is Professor of New Testament and Altshuler Distinguished Teaching Professor at Perkins School of Theology, Southern Methodist University. She is also the Director of the Baptist House of Studies at Perkins. She received her B.A. from Stetson University where she focused on both Philosophy and Russian Studies. She earned her M.Div. from Yale Divinity School and her Ph.D. in New Testament from Yale University. Her particular areas of expertise and publication include:
+![image-left](/assets/images/clark-soles-cropped-headshot-300x400.jpg){: .align-left} Rev. Dr. Jaime Clark-Soles is Professor of New Testament and Altshuler Distinguished Teaching Professor at Perkins School of Theology, Southern Methodist University. She is also the Director of the Baptist House of Studies at Perkins. She received her B.A. from Stetson University where she focused on both Philosophy and Russian Studies. She earned her M.Div. from Yale Divinity School and her Ph.D. in New Testament from Yale University. Her particular areas of expertise and publication include:
 
  The Johannine Literature (the Gospel of John; 1, 2, and 3 John; and Revelation)
 

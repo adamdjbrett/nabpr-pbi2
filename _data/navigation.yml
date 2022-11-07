@@ -4,11 +4,7 @@ main:
     url: /about/
   - title: "Books"
     url: /books/
-  - title: "Forthcoming"
-    url: /forthcoming/
-  - title: "News"
-    url: /News/
-  - title: "Editorial Board"
+  - title: "Advisory & Editorial Board"
     url: /board/ 
   - title: "Submissions"
     url: /submissions/     

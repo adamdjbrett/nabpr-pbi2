@@ -26,20 +26,6 @@ feature_row:
     url: "/books/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /assets/images/splash/nick-morrison-FHnnjk1Yj7Y-unsplash.jpg
-    alt: "100% free"
-    title: "Forthcoming titles"
-    excerpt: "A sneak peak at our upcoming books"
-    url: "/forthcoming/"
-    btn_class: "btn--primary"
-    btn_label: "Learn more"      
-  - image_path: /assets/images/splash/markus-winkler-aId-xYRTlEc-unsplash.jpg
-    alt: "customizable"
-    title: "News"
-    excerpt: "reviews and updates"
-    url: "/news/"
-    btn_class: "btn--primary"
-    btn_label: "Learn more"
   - image_path: /assets/images/splash/jason-goodman-vbxyFxlgpjM-unsplash.jpg
     alt: "fully responsive"
     title: "Editorial Board"

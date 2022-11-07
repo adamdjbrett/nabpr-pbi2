@@ -1,6 +1,8 @@
 ---
 title: "Doug Weaver"
 excerpt: "Interim Department Chair Professor of Baptist Studies, Baylor University"
+header:
+  teaser: /assets/images/Doug-Weaver-223x120.jpg
 ---
 ![image-center](/assets/images/Doug-Weaver-293016.jpg){: .align-center}
 

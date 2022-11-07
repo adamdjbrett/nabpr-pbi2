@@ -1,10 +1,8 @@
 ---
-title: Books
+title: Co-editors
 layout: collection
-permalink: /books/
-collection: books
+permalink: /editors/
+collection: editors
 entries_layout: grid
 classes: wide
 ---
-
-

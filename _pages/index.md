@@ -32,14 +32,7 @@ feature_row:
     excerpt: "Meet our editorial board"
     url: "/board/"
     btn_class: "btn--primary"
-    btn_label: "Learn more"
-  - image_path: /assets/images/splash/dariusz-sankowski-3OiYMgDKJ6k-unsplash.jpg
-    alt: "100% free"
-    title: "Contact Us"
-    excerpt: "Get in touch"
-    url: "/contact/"
-    btn_class: "btn--primary"
-    btn_label: "Learn more"      
+    btn_label: "Learn more"    
 ---
 
 {% include feature_row %}

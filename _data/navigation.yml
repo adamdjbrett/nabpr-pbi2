@@ -4,13 +4,16 @@ main:
     url: /about/
   - title: "Books"
     url: /books/
-  - title: "Advisory & Editorial Board"
+  - title: "Co-editors"
+    url: /editors/
+  - title: "Editorial Board"
     url: /board/ 
   - title: "Submissions"
     url: /submissions/     
   - title: "Contact"
     url: /contact/
-
+  - title: "Privacy Policy"
+    url: /terms/
 
 # sidebar-about links
 sidebar-about:

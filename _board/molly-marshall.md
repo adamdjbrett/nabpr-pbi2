@@ -2,7 +2,7 @@
 title: "Molly T. Marshall"
 excerpt: "President United Theologial Seminary of the Twin Cities"
 header:
-  teaser: /assets/images/Molly_T_Marshall_23x120.jpg
+  teaser: /assets/images/Molly-Marshall-e1644986650339.jpg
 ---
 ![image-center](/assets/images/Molly_T_Marshall_2021-267x400.jpeg){: .align-center}
 

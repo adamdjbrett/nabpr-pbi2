@@ -132,6 +132,9 @@ footer:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       url: https://facebook.com/nabpr
+    - label: "Website"
+      icon: "fa-solid fa-globe"
+      url: https://nabpr.org
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       # url:

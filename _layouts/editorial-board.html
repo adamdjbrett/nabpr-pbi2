@@ -1,0 +1,45 @@
+---
+layout: default
+---
+
+<div class="archive">
+	<h1 id="page-title" class="page__title">{{ page.title_1}}</h1>
+	<div class="entries-grid">
+		{% for item in site.editors %}
+		<div class="grid__item">
+			<article class="archive__item" itemscope="" itemtype="https://schema.org/CreativeWork">
+				<div class="archive__item-teaser">
+					<img src="{{ item.header.teaser }}" alt="{{ item.title }}">
+				</div>
+				<h2 class="archive__item-title no_toc" itemprop="headline">
+					<a href="{{ item.url }}" rel="permalink">{{ item.title }}
+					</a>
+				</h2>
+				<p class="archive__item-excerpt" itemprop="description">{{ item.excerpt }}
+				</p>
+			</article>
+		</div>
+		{% endfor %}
+	</div>
+</div>
+
+<div class="archive">
+	<h1 id="page-title" class="page__title">{{ page.title_2 }}</h1>
+	<div class="entries-grid">
+		{% for item in site.board %}
+		<div class="grid__item">
+			<article class="archive__item" itemscope="" itemtype="https://schema.org/CreativeWork">
+				<div class="archive__item-teaser">
+					<img src="{{ item.header.teaser }}" alt="{{ item.title }}">
+				</div>
+				<h2 class="archive__item-title no_toc" itemprop="headline">
+					<a href="{{ item.url }}" rel="permalink">{{ item.title }}
+					</a>
+				</h2>
+				<p class="archive__item-excerpt" itemprop="description">{{ item.excerpt }}
+				</p>
+			</article>
+		</div>
+		{% endfor %}
+	</div>
+</div>

@@ -4,10 +4,8 @@ main:
     url: /about/
   - title: "Books"
     url: /books/
-  - title: "Co-editors"
-    url: /editors/
   - title: "Editorial Board"
-    url: /board/ 
+    url: /editorial-board/ 
   - title: "Submissions"
     url: /submissions/     
   - title: "Contact"

@@ -30,7 +30,7 @@ feature_row:
     alt: "fully responsive"
     title: "Editorial Board"
     excerpt: "Meet our editorial board"
-    url: "/board/"
+    url: "/editorial-board/"
     btn_class: "btn--primary"
     btn_label: "Learn more"    
 ---

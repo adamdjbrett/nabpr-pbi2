@@ -148,6 +148,12 @@ footer:
       icon: "fab fa-fw fa-instagram"
       # url:
 
+analytics:
+  provider: "google-universal"
+  google:
+    tracking_id: "G-E289RX7Z1T"
+    anonymize_ip: false # default
+
 #Reading Files
 include:
   - .htaccess

@@ -9,7 +9,7 @@ permalink: /humans.txt
 Name: Adam DJ Brett
 Role: Web Admin
 site: https://adamdjbrett.com
-Twitter: @__adjb
+
 
 /* THANKS */
 
